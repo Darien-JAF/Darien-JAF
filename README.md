@@ -1,5 +1,5 @@
 #  Hi, I’m Darien Aguilar Flores
-🧑‍💻 Software Engineer sharing my journey and learnings im tech<br>📖 Studied at University Fidélitas, Costa Rica<br>🌱 I,m currently learning new technologies i enjoy like Cloud and AI<br>🗨️ Feel free to ask any information related to my study field<br>🤝 Looking to collaborate on amazing projects<br>
+🧑‍💻 Software Engineer sharing my journey and learnings in tech<br>📖 Studied at University Fidélitas, Costa Rica<br>🌱 I,m currently learning new technologies i enjoy like Cloud and AI<br>🗨️ Feel free to ask any information related to my study field<br>🤝 Looking to collaborate on amazing projects<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://cr.linkedin.com/in/darien-aguilar-flores-b31187295) 
 
 # 💻 Tech Stack:
